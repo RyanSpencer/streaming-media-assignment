@@ -1,6 +1,10 @@
 {
   "name": "streaming-media-assignment",
   "version": "1.0.0",
+  "engines": {
+	"node": "8.4.0",
+	"npm": "5.3.0"
+  },
   "description": "assignment about streaming media using node",
   "main": "index.js",
   "scripts": {
